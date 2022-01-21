@@ -3,4 +3,4 @@ Simple python script to split a PDF's pages into individual single page PDF file
 
 Requires PyPDF2. 
 
-To run: Change inputfile and outputfolder. 
+To run: Change inputfile, outputfolder as well as outputfile.
